@@ -1,0 +1,43 @@
+TERRITO RY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+NEXT PAYMENT
+25,000.00 º
+MOURNINGDALE
+CAN PAY IN 1day 7 hours 27 minutes
+Payment is not required at this time
+GOVERNED BY
+Mythril Order
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Fri, Oct 1
+UPGRADES
+5.00%
+4.00%
+A 24
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.90
+x 0.93
+3,422.02 :
+Change
+View Statement
+Property Tax
+720.00 9
+6 housing units
+Trading Tax
+1,396.83 9
+342 transactions
+Crafting Fee
+144.30 9
+601 items crafted
+Refining Fee
+1,160.89
+94320 resources refined
+TOTAL
+3,422.02

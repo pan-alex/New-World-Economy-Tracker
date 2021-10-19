@@ -1,0 +1,18 @@
+COM ΑNY PAYRO LL STAΤEΜENT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+0.00
+O housing units
+Trading Tax
+34,675.84
+13743 transactions
+Crafting Fee
+3,576.03
+57518 items crafted
+Refining Fee
+11,620.08
+2424049 resources refined
+49,871.95
+TOTAL
+The company income is automatically deposited to the company wallet.

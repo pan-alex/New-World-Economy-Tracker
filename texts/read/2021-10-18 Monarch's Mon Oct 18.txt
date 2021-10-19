@@ -1,0 +1,17 @@
+Current Period (Updated Hourly)
+Property Tax
+12,742.50 9
+Mon, Out 10
+105 housing units
+Mon, Oct 118
+Trading Tax
+24,319.61 9
+8879 transactions
+Crafting Fee
+4,268.70 9
+50115 items crafted
+Refining Fee
+14,398.19
+2163017 resources refined
+TOTAL
+55,729.00

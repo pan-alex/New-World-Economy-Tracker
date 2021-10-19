@@ -1,0 +1,43 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+ΝEXT PΑΥΜΕΝT
+20,000.00
+WINDSWARD
+CAN PAY IN 2 days 23 hours 4 minutes
+Payment is not required at this time
+GOVERNED BY
+Tessera Consortium
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Mon, Oct 11
+UPGRADES
+5.00%
+5.00%
+A 22
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.75
+x 0.75
+222,356.34
+Change
+View Statement
+Property Tax
+28,027.50 9
+200 housing units
+Trading Tax
+123,790.67 9
+50730 transactions
+Crafting Fee
+13,144.24 9
+195805 items crafted
+Refining Fee
+57,393.93 9
+7823376 resources refined
+222,356.34
+TOTAL

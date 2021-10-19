@@ -1,0 +1,49 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+DUE IN
+10,000.00
+02 : 03 : 48 : 41
+EVERFALL
+PAY TERRITORY UPKEEP
+Territory Downgrade
+GOVERNED BY
+Virginia Company
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Sun, Oct 3
+UPGRADES
+5.00%
+2.50%
+A 18
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.50
+x 0.50
+84,971.44
+Change
+View Statement
+COMPANY PAYROLL STATEMENT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+2,325.00
+14 housing units
+Trading Tax
+65,704.90
+23351 transactions
+Crafting Fee
+3,589.02
+88783 items crafted
+Refining Fee
+13,352.52 9
+3879520 resources refined
+84,971.44
+TOTAL
+The company income is automatically deposited to the company wallet.
+TH

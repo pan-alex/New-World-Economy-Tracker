@@ -1,0 +1,18 @@
+COMPANY PAYROLL STATEMENT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+652.50
+Wed, Oct 6
+6 housing units
+Trading Tax
+1,697.57
+382 transactions
+Crafting Fee
+189.75
+3935 items crafted
+Refining Fee
+571.14
+165269 resources refined
+3,110.96
+TOTAL

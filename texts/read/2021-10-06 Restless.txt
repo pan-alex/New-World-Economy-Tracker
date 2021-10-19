@@ -1,0 +1,44 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+NEXT PΑΥΜΕΝT
+600.00
+RESTLESS
+CAN PAY IN 3 days 2 hours 37 minutes
+SHORE
+Payment is not required at this time
+GOVERNED BY
+The Lilac Collective
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Thu, Sep 30
+UPGRADES
+5.00%
+4.20%
+$5
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.70
+x 0.70
+3,070.75
+Change
+View Statement
+Property Tax
+0.00 O
+O housing units
+Trading Tax
+2,478.76 9
+738 transactions
+Crafting Fee
+78.36 9
+1723 items crafted
+Refining Fee
+513.63 9
+131112 resources refined
+3,070.75
+TOTAL

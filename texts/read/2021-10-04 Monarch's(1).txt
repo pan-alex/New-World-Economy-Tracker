@@ -1,0 +1,15 @@
+Property Tax
+120.00
+1 housing units
+Trading Tax
+64,213.15
+30875 transactions
+Crafting Fee
+11,860.16
+138830 items crafted
+Refining Fee
+25,154.86
+4732106 resources refined
+101,348.17
+TOTAL
+TM

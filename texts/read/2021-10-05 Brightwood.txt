@@ -1,0 +1,43 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+ΝEXT PAYMENT
+5,000.00
+BRIGHTWOOD
+CAN PAY IN 2 days 17 hours 24 minutes
+Payment is not required at this time
+GOVERNED BY
+Bulwark
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Wed, Sep 29
+UPGRADES
+5.00%
+5.02%
+A 13
+CURRENT PERIOD (UPDATED HOURLY)
+x 1.26
+x 1.75
+59,761.01:
+Change
+View Statement
+Property Tax
+52.50 9
+1 housing units
+Trading Tax
+30,477.42 9
+8537 transactions
+Crafting Fee
+5,149.47 9
+24704 items crafted
+Refining Fee
+24,081.62
+1701697 resources refined
+59,761.01
+TOTAL

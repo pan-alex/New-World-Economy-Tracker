@@ -1,0 +1,32 @@
+GOVERNOR'S DES K.
+ESC
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+ΝEXT ΑΥΜEΝT
+900.00
+MOURNINGDALE
+CAN PAY IN 4 days 1 hour 45 minutes
+Payment is not required at this time
+GOVERNED BY
+Mythril Order
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Fri, Oct 1
+UPGRADES
+5.00%
+2.50%
+A8
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.98
+x 0.90
+2,244.98
+Change
+View Statement
+43

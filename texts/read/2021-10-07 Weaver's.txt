@@ -1,0 +1,45 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+NEXT PAY MENT
+09
+6,000.00 º
+WEAVER'S
+CAN PAY IN Iday 4 hours 15 minutes
+FEN
+Payment is not required at this time
+GOVERNED BY
+The Cabal
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Thu, Sep 30
+UPGRADES
+5.00%
+6.00%
+A 14
+CURRENT PERIOD (UPDATED HOURLY)
+x 1.20
+x 1.20
+4,034.42
+Change
+View Statement
+Property Tax
+0.00 9
+O housing units
+Trading Tax
+1,780.66 9
+688 transactions
+Crafting Fee
+833.77 9
+3332 items crafted
+Refining Fee
+1,419.99 9
+173860 resources refined
+ΤΟTAL
+4,034.42

@@ -1,0 +1,18 @@
+COMPANY PAYROLL STATEM ENT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+73.39 9
+Wed, Oct 6
+1 housing units
+Trading Tax
+40,918.32 9
+15837 transactions
+Crafting Fee
+4,373.23 9
+67138 items crafted
+Refining Fee
+14,563.16 9
+2867605 resources refined
+59,928.10
+TOTAL

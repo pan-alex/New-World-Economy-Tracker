@@ -1,0 +1,44 @@
+TERRITORY UPKEE P
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+ΝEXT PAΥMENT
+40,000.00
+CUTLASS
+CAN PAY IN 6 days 4 hours 43 minutes
+ΚEYS
+Payment is not required at this time
+GOVERNED BY
+Roughnecks
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Sat, Oct 2
+UPGRADES
+5.00%
+6.00%
+A 27
+CURRENT PERIOD (UPDATED HOURLY)
+x 1.00
+x 1.25
+40,784.02
+Change
+View Statement
+Property Tax
+9,307.50 9
+59 housing units
+Trading Tax
+15,673.02 9
+5259 transactions
+Crafting Fee
+3,187.86 9
+19756 items crafted
+Refining Fee
+12,615.64 9
+1311051 resources refined
+40,784.02
+ΤΟΤΑL

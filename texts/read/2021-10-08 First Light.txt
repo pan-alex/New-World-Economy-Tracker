@@ -1,0 +1,67 @@
+TERRΙTO RY UPKEEΡ
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+DUE IN
+9,000.00 9
+04 : 15 : 59 : 06
+FIRST LIGHT
+PAY TERRITORY UPKEEP
+Territory Downgrade
+GOVERNED BY
+Stronghold
+ΤAXE AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Thu, Sep 30
+UPGRADES
+6.99%
+4.75%
+A 17
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.97
+x 0.97
+13,839.50
+Change
+View Statement
+COM PΑNY PAYRO LL STAT EΜEΝT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+1.740.50 €
+Wed, Oct 6
+14 housing units
+Trading Tax
+5,591.71 9
+1911 transactions
+Crafting Fee
+1,315.65
+13421 items crafted
+Refining Fee
+5,191.64 9
+561256 resources refined
+13,839.50
+TOTAL
+The company income is automatically deposited to the company wallet.
+COMPANY PAYROLL STATEMENT
+The governing company earns coin from taxes and fees.
+Current Period (Updated Hourly)
+Property Tax
+73.39 9
+Wed, Oct 6
+1 housing units
+Trading Tax
+40,918.32
+15837 transactions
+Crafting Fee
+4,373.23 9
+67138 items crafted
+Refining Fee
+14,563.16 9
+2867605 resources refined
+59,928.10
+TOTAL

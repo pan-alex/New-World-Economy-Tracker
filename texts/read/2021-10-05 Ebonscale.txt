@@ -1,0 +1,44 @@
+TERRΙTO RY UPKEEΡ
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+DUE IN
+500.00
+01 : 02 : 24 : 07
+EBONSCALE
+REACH
+PAY TERRITORY UPKEEP
+Territory Downgrade
+GOVERNED BY
+Uphill Company
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Sat, Oct 2
+UPGRADES
+5.00%
+2.50%
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.50
+x 0.50
+226.74
+Change
+View Statement
+Property Tax
+0.00 9
+O housing units
+Trading Tax
+165.23 9
+47 transactions
+Crafting Fee
+6.10 9
+272 items crafted
+Refining Fee
+55.41 9
+21997 resources refined
+TOTAL
+226.74

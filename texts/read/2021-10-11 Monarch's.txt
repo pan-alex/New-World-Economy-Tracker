@@ -1,0 +1,44 @@
+TERRITORY UPKEEP
+Territory upkeep needs to be paid every 7 days by the governing
+company in order to prevent the territory from downgrading.
+AMOUNT DUE
+ΝEXT PΑΥΜΕΝT
+17,500.00
+MONARCH’S
+CAN PAY IN 1day 23 hours 41 minutes
+BLUFFS
+Payment is not required at this time
+GOVERNED BY
+Order of the Burning Sun
+TAXES AND FEES
+PAYROLLS
+SINCE
+The Governing company can adjust rates of
+Taxes and Fees.
+The governing company receives income
+from taxes and fees.
+Mon, Oct 4
+UPGRADES
+5.00%
+5.00%
+A 21
+CURRENT PERIOD (UPDATED HOURLY)
+x 0.80
+x 0.80
+0.00
+Change
+View Statement
+Property Tax
+0.00
+O housing units
+Trading Tax
+0.00 9
+0 transactions
+Crafting Fee
+0.00
+O items crafted
+Refining Fee
+0.00
+O resources refined
+TOTAL
+0.00
